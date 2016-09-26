@@ -1,0 +1,6 @@
+<div class="panel-body">
+  <div class="form-group variants_rule_variants">    
+    <%= label_tag "#{param_prefix}_variant_ids_string", Spree.t('variant_rule.choose_variants') %>
+    <%= text_field_tag "#{param_prefix}[variant_ids_string]", promotion_rule.variant_ids.join(","), :class => "promotion_rule_variant_picker" %>
+  </div>
+</div>

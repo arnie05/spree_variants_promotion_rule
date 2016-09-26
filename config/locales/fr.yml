@@ -1,0 +1,6 @@
+fr:
+  spree: 
+    promotion_rule_types:
+      variant:
+        description: La commande comprend la ou les variante(s) spécifiée(s)
+        name: Variant(s)

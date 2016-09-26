@@ -1,0 +1,6 @@
+en:
+  spree: 
+    promotion_rule_types:
+      variant:
+        description: The order includes the specified variant(s)
+        name: Variant(s)
