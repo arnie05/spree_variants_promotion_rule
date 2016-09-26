@@ -1,0 +1,2 @@
+# spree_variants_promotion_rule
+spree_variants_promotion_rule
