@@ -1,7 +1,8 @@
-SpreeVariantsPromotionRule
+<<<<<<< HEAD
+Spree Variants Promotion Rule
 ==========================
 
-Introduction goes here.
+This extension add a new promotion rule called "Variant(s)" and permit to apply a promotion to one or many variants.
 
 ## Installation
 
@@ -51,3 +52,7 @@ If you'd like to contribute, please take a look at the
 pull request.
 
 Copyright (c) 2016 [name of extension creator], released under the New BSD License
+=======
+# spree_variants_promotion_rule
+spree_variants_promotion_rule
+>>>>>>> 1d9b6a17d59d201b21e45a5ffcfadf07a3329366
